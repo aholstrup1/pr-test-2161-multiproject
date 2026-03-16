@@ -1,0 +1,27 @@
+{
+  "id": "4ba46754-8058-46d4-a094-507741ffe8a4",
+  "name": "Project2 App",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "App in Project2 that depends on Project1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "9cbd8bc8-0fc1-4d28-b40f-03cc7c0aac85",
+      "name": "Project1 App",
+      "publisher": "TestPublisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [{"from": 50200, "to": 50249}],
+  "runtime": "14.0",
+  "target": "Cloud"
+}

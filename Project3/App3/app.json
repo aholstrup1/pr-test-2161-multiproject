@@ -1,0 +1,20 @@
+{
+  "id": "f0ee6bd9-72e0-46bc-b7cf-2b672e1c5254",
+  "name": "Project3 App",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Independent app in Project3 with postponeProjectInBuildOrder",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [{"from": 50300, "to": 50349}],
+  "runtime": "14.0",
+  "target": "Cloud"
+}
