@@ -1,5 +1,8 @@
 {
-  "appFolders": ["App3"],
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup/workspace_compilationm/Actions/.Modules/settings.schema.json",
+  "appFolders": [
+    "App3"
+  ],
   "testFolders": [],
   "postponeProjectInBuildOrder": true
 }
